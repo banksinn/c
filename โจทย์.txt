@@ -1,0 +1,8 @@
+assign1:https://drive.google.com/file/d/1Hbm38oivudjjrxZkuhKUthCjpfEQmgyZ/view
+https://classroom.google.com/u/1/c/MTE2MjkyMTg5NzM2/a/MTM3NjAzMTY1NzQ2/details
+assign2:https://classroom.google.com/u/0/c/MTE2MjkyMTg5NzM2/a/MTE3ODI0NzA1ODY4/details
+assign3:https://classroom.google.com/u/1/c/MTE2MjkyMTg5NzM2/a/MTIxOTA2NjA4NzMy/details
+assign4:https://classroom.google.com/u/0/c/MTE2MjkyMTg5NzM2/a/MTQyMzM5MjE3MzY4/details
+assign5:https://classroom.google.com/u/0/c/MTE2MjkyMTg5NzM2/a/MTI2NDQ1MjQ0MTA1/details
+assign6:https://classroom.google.com/u/0/c/MTE2MjkyMTg5NzM2/a/MTI3OTAzODE1NTk0/details
+copy into putty:tee -a ชื่อไฟล์.c <<EOF paste EOF
